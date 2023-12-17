@@ -29,7 +29,7 @@ The current weather section is including the following weather characters and da
 
 - Here you can run the application using the following URL: https://haymanotyealemu.github.io/Weather-Dashboard/
 
-![](image/gambar.PNG)
+<img src="image/Gambar.png"/>
 
 - Credits
 
